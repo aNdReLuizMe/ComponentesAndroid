@@ -1,8 +1,8 @@
-# https://youtu.be/RfF_WlaFbyg
+## https://youtu.be/RfF_WlaFbyg
 
 O que foi visto:
 
-[x] exemplo utilizando CheckBox;
+* [x] exemplo utilizando CheckBox;
 
 [x] exemplo utilizando o Button;
 
